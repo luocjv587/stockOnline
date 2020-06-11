@@ -1,0 +1,15 @@
+{
+  "name": "stockonline",
+  "version": "1.0.0",
+  "description": "make your stock online",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.0.3"
+  },
+  "dependencies": {
+    "element-ui": "^2.13.2"
+  }
+}
